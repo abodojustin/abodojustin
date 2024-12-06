@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>A passionate FullStack Developer and DevOps/Cloud Engineer from Cameroon.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abodojustin&&style=for-the-badge" alt="abodojustin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abodojustin&&style=for-the-badge&color=brightgreen" alt="abodojustin" /> </p>
 
 <p align="left"> <a href="https://github.com/abodojustin"><img src="https://github-profile-trophy.vercel.app/?username=abodojustin" alt="abodojustin" /></a> </p>
 
