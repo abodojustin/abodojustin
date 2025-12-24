@@ -1,27 +1,80 @@
-### Hi 👋, My name is Justin.
+# Hi 👋, My name is Justin Francis.
 
-<!--
-**abodojustin/abodojustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Engineer;Software+Engineer" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌍 Based in Germany | 🎯 Open to any opportunity because I am a passionate**
 
-<h1>A passionate FullStack Developer and DevOps/Cloud Engineer from Cameroon.</h1>
+<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-dembele-portofolio.vercel.app/) -->
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abodojustin)
+[![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FrancisABODO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinawono)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abodojustin&&style=for-the-badge&color=brightgreen" alt="abodojustin" /> </p>
+📧 **abodojustin@gmail.com** | 📱 **+49 160 9144 6340**
 
-<p align="left"> <a href="https://github.com/abodojustin"><img src="https://github-profile-trophy.vercel.app/?username=abodojustin" alt="abodojustin" /></a> </p>
+</div>
 
-- 📫 How to reach me **abodojustin@gmail.com**
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abodojustin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abodojustin&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alex-dembele&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌍 Languages & Interests
+
+<div align="center">
+
+**🗣️ Languages:**  
+🇫🇷 **French** | 🇬🇧 **English** | 🇩🇪 **Deutsch**
+
+**🎯 Interests:**  
+💻 Emerging Technologies | 🎮 Gaming | ⚽ Football | 🌐 Cloud Trends | 🎼 Music | 🔐 Cybersecurity Research.
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abodojustin&theme=tokyo-night" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects and discuss the latest in cloud technologies and software framework!!!
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abodojustin@gmail.com)
+[![Schedule Call](https://img.shields.io/badge/Schedule_Call-00C851?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+4916091446340)
+<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-dembele-portofolio.vercel.app/) -->
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=abodojustin&&style=for-the-badge&color=brightgreen" alt="abodojustin" />
+
+**✨ _"Building secure, automated, scalable infrastructures and applications—one deployment at a time."_ ✨**
+
+</div>
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
