@@ -15,6 +15,64 @@
 
 </div>
 
+### 🏆 Professional Certifications and Badges
+
+<table>
+<tr>
+<td width="50%">
+
+**☁️ Cloud Certifications**
+- 🥇 **Amazon Certified Cloud Practitioner** *(2023-2026)*
+- 🔧 **Build Infrastructure with Terraform** *(Google Cloud & Amazon)*
+- 🔒 **Secure Google Cloud Network** *(Google Cloud)*
+- 🛡️ **Cloud Security Fundamentals** *(Amazon)*
+- ⚙️ **App Dev Environment Setup** *(Google Cloud & Amazon)*
+
+</td>
+<td width="50%">
+
+**🔐 Security Certifications**
+- 📜 **ISO/IEC 27001 Security Associate** *(SkillFront)*
+- 🥷 **CrowdSec Driven Cybersecurity** *(CrowdSec)*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**⚙️ DevOps & Automation**
+- ☸️ **Kubernetes LFS158** *(Linux Foundation)*
+- 🔄 **Scrum Fundamentals (CASF)** *(SkillFront)*
+
+</td>
+<td width="50%">
+
+**🌐 Networking**
+- 🔧 **Network Technician Career Path** *(Cisco)*
+- 🛡️ **Network Defense** *(Cisco)*
+- 🔍 **Network Support & Security** *(Cisco)*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| 🏠 **Multi-Cloud Kubernetes Homelab** | Deployed hybrid cluster across AWS EKS + Azure AKS + GCP GKE | `Terraform` `Helm` `Kubernetes` | [View →](https://github.com/abodojustin) |
+| 🔒 **Microservice** |  Deployed Wordpress Platform in Kubernetes | `Docker` `Kubernetes` `Javascript` `Bash` `Network` | [View →](https://github.com/abodojustin/mini-projet-kubernetes-updated) |
+| ⚡ **CI/CD Pipeline Automation** | Automated deployment pipeline with ArgoCD integration | `GitHub Actions` `ArgoCD` `Docker` | [View →](https://github.com/abodojustin) |
+| 🎯 **Portfolio Website** | Personal portfolio showcasing projects and skills | `Next.js` `Vercel` `React`  | [Live Demo →](https://alex-dembele-portofolio.vercel.app/) |
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -26,7 +84,12 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alex-dembele&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abodojustin&theme=tokyonight)](https://git.io/streak-stats)
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abodojustin&" alt="abodojustin" /></p>
+
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FrancisABODO)
+
 
 </div>
 
