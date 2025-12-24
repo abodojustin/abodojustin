@@ -15,6 +15,30 @@
 
 </div>
 
+---
+
+## 🚀 About Me 
+
+```yaml
+name: Justin Francis AWONO ABODO
+role: IT Consultant
+specialization: [Cloud Architecture, DevOps, Cybersecurity, Software Development, Network]
+current_position: Freelance
+location: Thüringen, Deutschland
+seeking: Local opportunities
+```
+
+**Passionate Fullstack Developer and DevOps/Cloud Engineer** with **hands-on experience** in designing, optimizing, and securing cloud infrastructures. I thrive on transforming complex technical challenges into elegant, scalable solutions.
+
+🎯 **What I do:**
+- Architect and migrate cloud infrastructures (AWS → Kubernetes)
+- Design automated CI/CD pipelines that reduce deployment time by **40%**
+- Optimize cloud costs through containerization (**-15% cost reduction**)
+- Implement robust security frameworks and monitoring solutions
+- Build resilient, high-availability systems and applications
+
+---
+
 ## 💼 Professional Experience
 
 <details>
