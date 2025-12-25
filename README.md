@@ -45,7 +45,7 @@ seeking: Local opportunities
 <summary><strong>🏢 DevSecOps Engineer & IT Trainer @ L2S Formation</strong> <em>(Sept 2024 - Jan 2025)</em></summary>
 
 **Key Achievements:**
-- 🔄 **Successfully migrated** Modernisation and Cloud-Native Deployment of E-Commerce Platforme using EKS, Terraform, Helm, and Gitlab-CI
+- 🔄 **Successfully migrated** Modernization and Cloud-Native Deployment of E-Commerce Platform using EKS, Terraform, Helm, and Gitlab-CI
 
 **Technologies:** AWS (EC2, S3, IAM, VPC, RDS), Kubernetes, Docker, Terraform, Helm, Gitlab-CI
 
