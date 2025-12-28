@@ -6,7 +6,7 @@
 
 **🌍 Based in Germany | 🎯 Open to any opportunity because I am a passionate**
 
-<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-dembele-portofolio.vercel.app/) -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-justin-chi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abodojustin)
 [![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FrancisABODO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinawono)
@@ -241,7 +241,7 @@ I'm always excited to collaborate on innovative projects and discuss the latest 
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abodojustin@gmail.com)
 [![Schedule Call](https://img.shields.io/badge/Schedule_Call-00C851?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+4916091446340)
-<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-dembele-portofolio.vercel.app/) -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-justin-chi.vercel.app/)
 
 ---
 
